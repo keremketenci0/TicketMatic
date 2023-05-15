@@ -41,3 +41,6 @@ Bu proje aşağıdaki sınıflardan oluşmaktadır:
 - Bu uygulama, kullanıcıların doğru girişler yapmasını sağlamak için try-catch yöntemini kullanır. Hatalı girişlerde uygulama çökmez, bunun yerine hata mesajı gösterir ve kullanıcıyı tekrar giriş yapmaya yönlendirir.
 - Uygulama, kullanıcının eski seçimlere geri dönebilmesi için while döngüsü kullanır. Kullanıcı istediği zaman geri dönüp farklı bir seçim yapabilir ve bilet işlemlerini yeniden başlatabilir.
 - Bu değişiklikler, kullanıcı deneyimini iyileştirmek ve hata yönetimini güçlendirmek için yapılmıştır.
+
+## Modelleme
+- ![image](https://github.com/keremketenci0/TicketMatic/assets/128905838/a5e1c4c4-070e-49e9-81c3-81879e884979)
