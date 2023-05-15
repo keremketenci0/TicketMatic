@@ -1,0 +1,8 @@
+C:\Users\kerem\source\repos\TicketMatic\TicketMatic\bin\Debug\TicketMatic.exe.config
+C:\Users\kerem\source\repos\TicketMatic\TicketMatic\bin\Debug\TicketMatic.exe
+C:\Users\kerem\source\repos\TicketMatic\TicketMatic\bin\Debug\TicketMatic.pdb
+C:\Users\kerem\source\repos\TicketMatic\TicketMatic\obj\Debug\TicketMatic.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\TicketMatic\TicketMatic\obj\Debug\TicketMatic.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerem\source\repos\TicketMatic\TicketMatic\obj\Debug\TicketMatic.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\TicketMatic\TicketMatic\obj\Debug\TicketMatic.exe
+C:\Users\kerem\source\repos\TicketMatic\TicketMatic\obj\Debug\TicketMatic.pdb
