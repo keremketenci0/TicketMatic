@@ -43,6 +43,8 @@ Bu proje aşağıdaki sınıflardan oluşmaktadır:
 - Bu değişiklikler, kullanıcı deneyimini iyileştirmek ve hata yönetimini güçlendirmek için yapılmıştır.
 
 ## Modelleme
-![image](https://github.com/keremketenci0/TicketMatic/assets/128905838/8a520cb6-c8aa-4fa7-b7d7-fd2c15f0541c) // Draw.io
+// Draw.io
+![image](https://github.com/keremketenci0/TicketMatic/assets/128905838/8a520cb6-c8aa-4fa7-b7d7-fd2c15f0541c)
 
-- ![image](https://github.com/keremketenci0/TicketMatic/assets/128905838/a5e1c4c4-070e-49e9-81c3-81879e884979) // Paint
+// Paint
+- ![image](https://github.com/keremketenci0/TicketMatic/assets/128905838/a5e1c4c4-070e-49e9-81c3-81879e884979)
