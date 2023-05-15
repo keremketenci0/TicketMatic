@@ -2,7 +2,7 @@
 
 # Biletmatik Uygulaması
 
-Bu, C# ve Visual Studio kullanılarak geliştirilmiş bir biletmatik uygulamasıdır. Bu uygulama, kullanıcının bir film seansı için bilet satın almasını sağlar.
+Bu, C# ve Visual Studio kullanılarak geliştirilmiş bir konsol uygulamasıdır. Bu uygulama, kullanıcının bir film seansı için bilet satın almasını sağlar.
 
 ## Kullanım
 
