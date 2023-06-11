@@ -44,7 +44,8 @@ Bu proje aşağıdaki sınıflardan oluşmaktadır:
 
 ## Modelleme
 // Draw.io
-![image](https://github.com/keremketenci0/TicketMatic/assets/128905838/8a520cb6-c8aa-4fa7-b7d7-fd2c15f0541c)
+![TicketMatic_draw io](https://github.com/keremketenci0/TicketMatic/assets/128905838/6c04e8fb-f88e-4b03-ab9e-0c853b9fb795)
 
 // Paint
-- ![image](https://github.com/keremketenci0/TicketMatic/assets/128905838/a5e1c4c4-070e-49e9-81c3-81879e884979)
+![TicketMatic](https://github.com/keremketenci0/TicketMatic/assets/128905838/1ed3f267-f99f-4a4e-a68b-d38c9bdae4c8)
+
