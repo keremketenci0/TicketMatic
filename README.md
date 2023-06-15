@@ -1,4 +1,4 @@
-# TicketMatic.cs
+# TicketMatic
 
 # Biletmatik Uygulaması
 
